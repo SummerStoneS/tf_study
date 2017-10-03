@@ -1,3 +1,4 @@
 events.out.tfevents*
 .idea/
 .idea/workspace.xml
+*.xml
