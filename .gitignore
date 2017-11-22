@@ -4,3 +4,4 @@ events.out.tfevents*
 *.xml
 *.jpg
 *.jpg
+mongodb.py
